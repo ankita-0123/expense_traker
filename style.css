@@ -1,0 +1,24 @@
+h1{
+    color:brown;
+    text-align: left;
+  
+}
+form{
+    color: blueviolet;
+    text-align: left;
+    
+    
+}
+button{
+    color: blue;
+}
+body{
+    background-color: bisque;
+
+}
+input{
+    width: 200px;
+}
+select{
+    width: 200px;
+}
